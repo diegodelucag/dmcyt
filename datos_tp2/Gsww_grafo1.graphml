@@ -1,0 +1,479 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="float" for="edge" id="d0"/>
+<graph edgedefault="directed"><node id="Cheddar"/>
+<node id="cheese"/>
+<node id="Parmesan"/>
+<node id="halt"/>
+<node id="stop"/>
+<node id="brewery"/>
+<node id="beer"/>
+<node id="bubonic"/>
+<node id="plague"/>
+<node id="wick"/>
+<node id="candle"/>
+<node id="inebriated"/>
+<node id="drunk"/>
+<node id="moo"/>
+<node id="cow"/>
+<node id="hound"/>
+<node id="dog"/>
+<node id="teddy"/>
+<node id="bear"/>
+<node id="arachnid"/>
+<node id="spider"/>
+<node id="brie"/>
+<node id="downpour"/>
+<node id="rain"/>
+<node id="smooch"/>
+<node id="kiss"/>
+<node id="elm"/>
+<node id="tree"/>
+<node id="perspire"/>
+<node id="sweat"/>
+<node id="spud"/>
+<node id="potato"/>
+<node id="feline"/>
+<node id="cat"/>
+<node id="sill"/>
+<node id="window"/>
+<node id="newborn"/>
+<node id="baby"/>
+<node id="physician"/>
+<node id="doctor"/>
+<node id="cobra"/>
+<node id="snake"/>
+<node id="grizzly"/>
+<node id="cod"/>
+<node id="fish"/>
+<node id="meow"/>
+<node id="marrow"/>
+<node id="bone"/>
+<node id="mozzarella"/>
+<node id="serpent"/>
+<node id="holster"/>
+<node id="gun"/>
+<node id="oink"/>
+<node id="pig"/>
+<node id="fib"/>
+<node id="lie"/>
+<node id="impolite"/>
+<node id="rude"/>
+<node id="steed"/>
+<node id="horse"/>
+<node id="perhaps"/>
+<node id="maybe"/>
+<node id="cob"/>
+<node id="corn"/>
+<node id="viper"/>
+<node id="loaf"/>
+<node id="bread"/>
+<node id="uncooked"/>
+<node id="raw"/>
+<node id="ought"/>
+<node id="should"/>
+<node id="sodium"/>
+<node id="salt"/>
+<node id="perspiration"/>
+<node id="heifer"/>
+<node id="parchment"/>
+<node id="paper"/>
+<node id="udder"/>
+<node id="Labrador"/>
+<node id="fedora"/>
+<node id="hat"/>
+<node id="itch"/>
+<node id="scratch"/>
+<node id="nostril"/>
+<node id="nose"/>
+<node id="retina"/>
+<node id="eye"/>
+<node id="maize"/>
+<node id="python"/>
+<node id="Adam"/>
+<node id="eve"/>
+<node id="fir"/>
+<node id="yolk"/>
+<node id="egg"/>
+<node id="inexpensive"/>
+<node id="cheap"/>
+<node id="hare"/>
+<node id="rabbit"/>
+<node id="quarterback"/>
+<node id="football"/>
+<node id="spectacles"/>
+<node id="glasses"/>
+<node id="Sahara"/>
+<node id="desert"/>
+<node id="soaked"/>
+<node id="wet"/>
+<node id="despise"/>
+<node id="hate"/>
+<node id="lager"/>
+<node id="antiquated"/>
+<node id="old"/>
+<node id="exhausted"/>
+<node id="tired"/>
+<node id="tardy"/>
+<node id="late"/>
+<node id="befuddled"/>
+<node id="confused"/>
+<node id="brawl"/>
+<node id="fight"/>
+<node id="gust"/>
+<node id="wind"/>
+<node id="stallion"/>
+<node id="giggle"/>
+<node id="laugh"/>
+<node id="sirloin"/>
+<node id="steak"/>
+<node id="jigsaw"/>
+<node id="puzzle"/>
+<node id="comprehend"/>
+<node id="understand"/>
+<node id="deceased"/>
+<node id="dead"/>
+<node id="NASA"/>
+<node id="space"/>
+<node id="cheerful"/>
+<node id="happy"/>
+<node id="quench"/>
+<node id="thirst"/>
+<node id="grater"/>
+<node id="saddle"/>
+<node id="Morse"/>
+<node id="code"/>
+<node id="Britannica"/>
+<node id="encyclopedia"/>
+<node id="flames"/>
+<node id="fire"/>
+<node id="vehicle"/>
+<node id="car"/>
+<node id="honeydew"/>
+<node id="melon"/>
+<node id="kitty"/>
+<node id="unattractive"/>
+<node id="ugly"/>
+<node id="cashew"/>
+<node id="nut"/>
+<node id="finch"/>
+<node id="bird"/>
+<node id="grail"/>
+<node id="holy"/>
+<node id="birch"/>
+<node id="concealed"/>
+<node id="hidden"/>
+<node id="deity"/>
+<node id="God"/>
+<node id="drizzle"/>
+<node id="beagle"/>
+<node id="obese"/>
+<node id="fat"/>
+<node id="dromedary"/>
+<node id="camel"/>
+<node id="automobile"/>
+<node id="Crayola"/>
+<node id="crayon"/>
+<node id="carp"/>
+<node id="narcotics"/>
+<node id="drugs"/>
+<edge source="Cheddar" target="cheese">
+  <data key="d0">0.96875</data>
+</edge>
+<edge source="Parmesan" target="cheese">
+  <data key="d0">0.9684210526315791</data>
+</edge>
+<edge source="halt" target="stop">
+  <data key="d0">0.956043956043956</data>
+</edge>
+<edge source="brewery" target="beer">
+  <data key="d0">0.934065934065934</data>
+</edge>
+<edge source="bubonic" target="plague">
+  <data key="d0">0.9325842696629212</data>
+</edge>
+<edge source="wick" target="candle">
+  <data key="d0">0.9204545454545454</data>
+</edge>
+<edge source="inebriated" target="drunk">
+  <data key="d0">0.9166666666666666</data>
+</edge>
+<edge source="moo" target="cow">
+  <data key="d0">0.91</data>
+</edge>
+<edge source="hound" target="dog">
+  <data key="d0">0.9090909090909092</data>
+</edge>
+<edge source="teddy" target="bear">
+  <data key="d0">0.9042553191489362</data>
+</edge>
+<edge source="arachnid" target="spider">
+  <data key="d0">0.9032258064516128</data>
+</edge>
+<edge source="brie" target="cheese">
+  <data key="d0">0.9021739130434784</data>
+</edge>
+<edge source="downpour" target="rain">
+  <data key="d0">0.8902439024390244</data>
+</edge>
+<edge source="smooch" target="kiss">
+  <data key="d0">0.8842105263157894</data>
+</edge>
+<edge source="elm" target="tree">
+  <data key="d0">0.8842105263157894</data>
+</edge>
+<edge source="perspire" target="sweat">
+  <data key="d0">0.8829787234042553</data>
+</edge>
+<edge source="spud" target="potato">
+  <data key="d0">0.8809523809523809</data>
+</edge>
+<edge source="feline" target="cat">
+  <data key="d0">0.8804347826086957</data>
+</edge>
+<edge source="sill" target="window">
+  <data key="d0">0.8780487804878049</data>
+</edge>
+<edge source="newborn" target="baby">
+  <data key="d0">0.8762886597938144</data>
+</edge>
+<edge source="physician" target="doctor">
+  <data key="d0">0.8762886597938144</data>
+</edge>
+<edge source="cobra" target="snake">
+  <data key="d0">0.875</data>
+</edge>
+<edge source="grizzly" target="bear">
+  <data key="d0">0.8723404255319149</data>
+</edge>
+<edge source="cod" target="fish">
+  <data key="d0">0.8720930232558141</data>
+</edge>
+<edge source="meow" target="cat">
+  <data key="d0">0.8709677419354839</data>
+</edge>
+<edge source="marrow" target="bone">
+  <data key="d0">0.8705882352941177</data>
+</edge>
+<edge source="mozzarella" target="cheese">
+  <data key="d0">0.8686868686868687</data>
+</edge>
+<edge source="serpent" target="snake">
+  <data key="d0">0.8681318681318682</data>
+</edge>
+<edge source="holster" target="gun">
+  <data key="d0">0.8651685393258427</data>
+</edge>
+<edge source="oink" target="pig">
+  <data key="d0">0.8631578947368421</data>
+</edge>
+<edge source="fib" target="lie">
+  <data key="d0">0.8588235294117647</data>
+</edge>
+<edge source="impolite" target="rude">
+  <data key="d0">0.8571428571428571</data>
+</edge>
+<edge source="steed" target="horse">
+  <data key="d0">0.8571428571428571</data>
+</edge>
+<edge source="perhaps" target="maybe">
+  <data key="d0">0.8556701030927835</data>
+</edge>
+<edge source="cob" target="corn">
+  <data key="d0">0.8556701030927835</data>
+</edge>
+<edge source="viper" target="snake">
+  <data key="d0">0.8555555555555555</data>
+</edge>
+<edge source="loaf" target="bread">
+  <data key="d0">0.8541666666666666</data>
+</edge>
+<edge source="uncooked" target="raw">
+  <data key="d0">0.8541666666666666</data>
+</edge>
+<edge source="ought" target="should">
+  <data key="d0">0.8536585365853658</data>
+</edge>
+<edge source="sodium" target="salt">
+  <data key="d0">0.8533333333333334</data>
+</edge>
+<edge source="perspiration" target="sweat">
+  <data key="d0">0.8461538461538461</data>
+</edge>
+<edge source="heifer" target="cow">
+  <data key="d0">0.8409090909090909</data>
+</edge>
+<edge source="parchment" target="paper">
+  <data key="d0">0.8409090909090909</data>
+</edge>
+<edge source="udder" target="cow">
+  <data key="d0">0.8409090909090909</data>
+</edge>
+<edge source="Labrador" target="dog">
+  <data key="d0">0.84</data>
+</edge>
+<edge source="fedora" target="hat">
+  <data key="d0">0.8395061728395061</data>
+</edge>
+<edge source="itch" target="scratch">
+  <data key="d0">0.8387096774193549</data>
+</edge>
+<edge source="nostril" target="nose">
+  <data key="d0">0.8387096774193549</data>
+</edge>
+<edge source="retina" target="eye">
+  <data key="d0">0.8383838383838383</data>
+</edge>
+<edge source="maize" target="corn">
+  <data key="d0">0.8369565217391305</data>
+</edge>
+<edge source="python" target="snake">
+  <data key="d0">0.8352941176470589</data>
+</edge>
+<edge source="Adam" target="eve">
+  <data key="d0">0.8352941176470589</data>
+</edge>
+<edge source="fir" target="tree">
+  <data key="d0">0.8351648351648352</data>
+</edge>
+<edge source="yolk" target="egg">
+  <data key="d0">0.8333333333333334</data>
+</edge>
+<edge source="inexpensive" target="cheap">
+  <data key="d0">0.8333333333333334</data>
+</edge>
+<edge source="hare" target="rabbit">
+  <data key="d0">0.8314606741573034</data>
+</edge>
+<edge source="quarterback" target="football">
+  <data key="d0">0.8314606741573034</data>
+</edge>
+<edge source="spectacles" target="glasses">
+  <data key="d0">0.8314606741573034</data>
+</edge>
+<edge source="Sahara" target="desert">
+  <data key="d0">0.83</data>
+</edge>
+<edge source="soaked" target="wet">
+  <data key="d0">0.8292682926829268</data>
+</edge>
+<edge source="despise" target="hate">
+  <data key="d0">0.8279569892473119</data>
+</edge>
+<edge source="lager" target="beer">
+  <data key="d0">0.8260869565217391</data>
+</edge>
+<edge source="antiquated" target="old">
+  <data key="d0">0.825</data>
+</edge>
+<edge source="exhausted" target="tired">
+  <data key="d0">0.8247422680412371</data>
+</edge>
+<edge source="tardy" target="late">
+  <data key="d0">0.8241758241758241</data>
+</edge>
+<edge source="befuddled" target="confused">
+  <data key="d0">0.8227848101265823</data>
+</edge>
+<edge source="brawl" target="fight">
+  <data key="d0">0.8222222222222222</data>
+</edge>
+<edge source="gust" target="wind">
+  <data key="d0">0.8210526315789474</data>
+</edge>
+<edge source="stallion" target="horse">
+  <data key="d0">0.8210526315789474</data>
+</edge>
+<edge source="giggle" target="laugh">
+  <data key="d0">0.8210526315789474</data>
+</edge>
+<edge source="sirloin" target="steak">
+  <data key="d0">0.8202247191011236</data>
+</edge>
+<edge source="jigsaw" target="puzzle">
+  <data key="d0">0.8191489361702128</data>
+</edge>
+<edge source="comprehend" target="understand">
+  <data key="d0">0.8163265306122449</data>
+</edge>
+<edge source="deceased" target="dead">
+  <data key="d0">0.8152173913043478</data>
+</edge>
+<edge source="NASA" target="space">
+  <data key="d0">0.8152173913043478</data>
+</edge>
+<edge source="cheerful" target="happy">
+  <data key="d0">0.8144329896907216</data>
+</edge>
+<edge source="quench" target="thirst">
+  <data key="d0">0.8131868131868132</data>
+</edge>
+<edge source="grater" target="cheese">
+  <data key="d0">0.8131868131868132</data>
+</edge>
+<edge source="saddle" target="horse">
+  <data key="d0">0.8125</data>
+</edge>
+<edge source="Morse" target="code">
+  <data key="d0">0.8117647058823529</data>
+</edge>
+<edge source="Britannica" target="encyclopedia">
+  <data key="d0">0.8117647058823529</data>
+</edge>
+<edge source="flames" target="fire">
+  <data key="d0">0.8111111111111111</data>
+</edge>
+<edge source="vehicle" target="car">
+  <data key="d0">0.8105263157894737</data>
+</edge>
+<edge source="honeydew" target="melon">
+  <data key="d0">0.8105263157894737</data>
+</edge>
+<edge source="kitty" target="cat">
+  <data key="d0">0.8105263157894737</data>
+</edge>
+<edge source="unattractive" target="ugly">
+  <data key="d0">0.8105263157894737</data>
+</edge>
+<edge source="cashew" target="nut">
+  <data key="d0">0.8105263157894737</data>
+</edge>
+<edge source="finch" target="bird">
+  <data key="d0">0.8095238095238095</data>
+</edge>
+<edge source="grail" target="holy">
+  <data key="d0">0.8095238095238095</data>
+</edge>
+<edge source="birch" target="tree">
+  <data key="d0">0.8089887640449438</data>
+</edge>
+<edge source="concealed" target="hidden">
+  <data key="d0">0.8089887640449438</data>
+</edge>
+<edge source="deity" target="God">
+  <data key="d0">0.8068181818181818</data>
+</edge>
+<edge source="drizzle" target="rain">
+  <data key="d0">0.8068181818181818</data>
+</edge>
+<edge source="beagle" target="dog">
+  <data key="d0">0.8064516129032258</data>
+</edge>
+<edge source="obese" target="fat">
+  <data key="d0">0.8061224489795918</data>
+</edge>
+<edge source="dromedary" target="camel">
+  <data key="d0">0.8055555555555556</data>
+</edge>
+<edge source="automobile" target="car">
+  <data key="d0">0.8041237113402062</data>
+</edge>
+<edge source="Crayola" target="crayon">
+  <data key="d0">0.8024691358024691</data>
+</edge>
+<edge source="carp" target="fish">
+  <data key="d0">0.8024691358024691</data>
+</edge>
+<edge source="narcotics" target="drugs">
+  <data key="d0">0.8021978021978022</data>
+</edge>
+</graph></graphml>
